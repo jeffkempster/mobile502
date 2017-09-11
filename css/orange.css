@@ -448,9 +448,13 @@ h1, h2, h3, h4, h5, h6 {
   text-align: center;
 }
 
-#fh5co-our-services,
+#fh5co-our-services {
+  background: #f4f4f4; 
+}
+
+
 #fh5co-press {
-  background: #f4f4f4;
+  background: #222; /*  #f4f4f4; */
 }
 
 #fh5co-our-services .box {
