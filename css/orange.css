@@ -23,6 +23,15 @@ body {
   position: relative;
 }
 
+.navbar-brand {
+  padding: 0px;
+}
+.navbar-brand>img {
+  height: 100%;
+  padding: 15px;
+  width: auto;
+}
+
 a {
   color: #ff6600;
   -webkit-transition: 0.5s;
@@ -137,7 +146,7 @@ h1, h2, h3, h4, h5, h6 {
   transition: all 0.3s ease-in-out 0s;
 }
 #fh5co-header #navbar li a:hover {
-  color: #fff;
+  color: #fff; 
 }
 #fh5co-header #navbar li a:hover span:before {
   visibility: visible;
