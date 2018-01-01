@@ -555,10 +555,12 @@ h1, h2, h3, h4, h5, h6 {
 #fh5co-features .fh5co-service .fh5co-icon {
   float: left;
   width: 20%;
+  border-radius: 25px;
 }
 #fh5co-features .fh5co-service .fh5co-icon i {
   font-size: 40px;
   color: #ff6600;
+  border-radius: 25px;
 }
 #fh5co-features .fh5co-service .fh5co-desc {
   width: 75%;
